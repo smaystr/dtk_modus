@@ -1,0 +1,10 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+
+gunicorn
+psycopg2
+scrapy
+python-dotenv
+requests
